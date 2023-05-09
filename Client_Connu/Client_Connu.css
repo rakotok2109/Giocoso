@@ -1,47 +1,46 @@
 
 body{
-    font-family: fredoka one;
+    font-family: 'Fredoka', sans-serif;
     background-color: #232323;
     color: white;
-    font-size: 30px;
+    font-size: 16px;
     letter-spacing: .2rem;
 }
 
 h1{
-    font-family: fredoka one;
     text-align: center;
     margin-bottom: 5%;
 
 }
 
-button{
-    font-family: fredoka one;    
+button{ 
+    font-family: 'Fredoka', sans-serif;
     background-color: #70F8BA;
     color: #232323;
     padding:10px 50px 10px 50px;
     border-radius:56px;
     border: none;
-    font-size: 2rem; 
+    font-size: 1rem; 
     margin-bottom: 5%;
 }
 
 .info{
     background-color: #171717;
     border-radius: 56px;
-    width: 34%;
-    width: 50%;
+    /*width: 50%;*/
+    width: 575px;
+    height: 401px;
     border: none;
     display: inline-block;
 
 }
 input{
-    font-family: fredoka one;
     color: #232323;
-    padding:10px 50px 10px 50px;
+    padding:10px 30px 10px 50px;
     border: none;
-    height: 75px;
+    height: 30px;
     width: 70%;
-    font-size: 35px;
+    font-size: 16px;
     text-align: center;
     text-decoration: none;
 }
