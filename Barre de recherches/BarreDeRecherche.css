@@ -1,0 +1,23 @@
+body{
+    background-color: #232323;
+
+}
+input{
+    margin-left: auto;
+    width: 50%;
+    height:50px;
+    border-radius: 56px;
+    border:none;
+    font-family: fredoka one;
+    margin-top: 4%;
+    margin-left: 4%;
+    color: #232323;
+}
+.bouton{
+    display: inline-block;
+    height: 50px;
+    font-family: fredoka one;
+    margin-left: 1%;
+    font-size: 20px;
+    color: #232323;
+}
