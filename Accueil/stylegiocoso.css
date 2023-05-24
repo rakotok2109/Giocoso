@@ -1,0 +1,114 @@
+body {
+    background-color: #202020;
+}
+
+
+nav.menu ul {
+    list-style-type: none;
+    overflow: hidden;
+    margin : 0;
+    padding-right : 50px;
+    background-color: #FF398A;
+    border-radius: 2em;
+    width : 700px;
+    height : 70px;
+    color : #202020;
+    font-family:"Gilroy ExtraBold";
+    margin-left: 350px;
+  }
+
+nav.menu li {
+    float : left;
+    height: 60px;
+    margin : 10px;
+    width : 13%;
+    text-align: center;
+  }
+  
+nav.menu li a{
+    display: block;
+    color:rgb(11, 2, 2);
+    text-align: center;
+    padding : 14px 18px;
+    text-decoration: none;
+    font-size: 14px;
+    position : relative;
+    left : 15px;
+  }
+
+nav.menu img {
+    height : 44px;
+    width : 64px;
+    position : relative;
+    bottom : 10px;
+    left : 10px;
+}
+
+.logo img {
+    height: 22px;
+    width : 130px;
+    border-radius: 2em;
+    background-color: #202020;
+    position : relative;
+    left : 680px;
+    top : 20px;
+    padding : 10px;
+}
+
+h2 {
+    font-family:"Gilroy ExtraBold";
+    color : rgb(255,255,255);
+    text-align: center;
+}
+
+.publicite {
+    border : 1px solid #FF398A;
+    height : 400px;
+    width : 800px;
+    margin-left: 350px;
+    margin-top : 150px;
+}
+
+#barrederecherche {
+    width : 800px;
+	height: 35px;
+    margin-top: 20px;
+    background-color : #202020;
+    border : 1px solid rgb(255,255,255);
+    margin-left: 350px;
+    margin-top : 100px;
+    color : rgb(255,255,255);
+}
+
+.gamme {
+    margin-top: 100px;
+}
+
+.brasserie {
+    background-color: black;
+    color : rgb(255,255,255);
+    border-radius: 2em;
+    height : 500px;
+    width : 500px;
+    margin-left: 350px;
+    margin-top : 400px;
+}
+
+.brasserie p {
+    margin-top: 40px;
+    text-align : center;
+    font-family:"Gilroy Light";
+}
+
+button {
+    border-radius: 2em;
+    font-family:"Gilroy ExtraBold";
+    color :#202020;
+    background-color: #70F8BA;
+    text-align: center;
+    position : relative;
+    left : 100px;
+    top : 60px;
+    width : 150px;
+    height : 40px;
+}
